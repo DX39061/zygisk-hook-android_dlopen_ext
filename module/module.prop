@@ -1,0 +1,6 @@
+id=AndroidDlopenExtHook
+name=AndroidDlopenExtHook
+version=v0.1
+versionCode=1
+author=DX3906
+description=hook android_dlopen_ext. set target app in /data/local/tmp/dlsymHook.txt, then see logcat
